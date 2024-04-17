@@ -140,9 +140,10 @@ RGA can be a valuable tool in software testing:
 • **Uncertainty:** There is inherent uncertainty in predicting software reliability and the effectiveness of reliability growth analysis. Factors such as changing requirements, evolving technology, and unforeseen interactions can impact the reliability of the software and the success of reliability growth efforts.
 
 # Assessment Using Reliability Demonstration Chart
-![]{media/fig1.png)
-![]{media/fig2.png)
-![]{media/fig3.png)
+
+![](media/fig1.png)
+![](media/fig2.png)
+![](media/fig3.png)
 
 ## Explain your evaluation and justification of how you decide the MTTFmin
 
